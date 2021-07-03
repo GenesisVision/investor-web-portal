@@ -1,7 +1,1 @@
-<svg width="112" height="112" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M53.951 58.658L109.337 3.59895L75.6968 108.701L53.951 58.658Z" stroke="#15BBAF" stroke-width="2" stroke-linejoin="bevel"/>
-    <path d="M110.202 1.53923L53.2033 58.5819L53.6001 57.664L2.84906 35.7234L110.202 1.53923Z" stroke="#15BBAF" stroke-width="2" stroke-linejoin="bevel"/>
-    <path d="M24.7383 86.5973L40.379 70.9565" stroke="white" stroke-width="2" stroke-linecap="round"/>
-    <path opacity="0.4" d="M20.7383 75.102L30.8837 64.9565" stroke="white" stroke-width="2"/>
-    <path opacity="0.4" d="M37.7383 89.102L47.8837 78.9565" stroke="white" stroke-width="2" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" fill="none" viewBox="0 0 112 112"><path stroke="#15BBAF" stroke-linejoin="bevel" stroke-width="2" d="M53.951 58.658L109.337 3.59895L75.6968 108.701L53.951 58.658Z"/><path stroke="#15BBAF" stroke-linejoin="bevel" stroke-width="2" d="M110.202 1.53923L53.2033 58.5819L53.6001 57.664L2.84906 35.7234L110.202 1.53923Z"/><path stroke="#fff" stroke-linecap="round" stroke-width="2" d="M24.7383 86.5973L40.379 70.9565"/><path stroke="#fff" stroke-width="2" d="M20.7383 75.102L30.8837 64.9565" opacity=".4"/><path stroke="#fff" stroke-linecap="round" stroke-width="2" d="M37.7383 89.102L47.8837 78.9565" opacity=".4"/></svg>

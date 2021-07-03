@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="13px" height="14px" viewBox="0 0 13 14" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1600_3_3_Transaction-Components" transform="translate(-1020.000000, -606.000000)" stroke="#FFFFFF" stroke-width="1.4">
-            <g id="Group-28-Copy-2" transform="translate(970.000000, 551.000000)">
-                <g id="Group-7" transform="translate(36.000000, 14.000000)">
-                    <g id="Group-11" transform="translate(0.000000, 28.000000)">
-                        <g transform="translate(20.500000, 21.000000) rotate(-180.000000) translate(-20.500000, -21.000000) translate(15.000000, 14.000000)">
-                            <path d="M5.5,1.55555556 L5.5,14" id="Path-2"></path>
-                            <polyline points="1.2246468e-16 9.33333333 5.5 14 11 9.33333333"></polyline>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="14" version="1.1" viewBox="0 0 13 14"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="1600_3_3_Transaction-Components" stroke="#FFF" stroke-width="1.4" transform="translate(-1020.000000, -606.000000)"><g id="Group-28-Copy-2" transform="translate(970.000000, 551.000000)"><g id="Group-7" transform="translate(36.000000, 14.000000)"><g id="Group-11"><g transform="translate(0.000000, 28.000000) translate(20.500000, 21.000000) rotate(-180.000000) translate(-20.500000, -21.000000) translate(15.000000, 14.000000)"><path id="Path-2" d="M5.5,1.55555556 L5.5,14"/><polyline points="0 9.333 5.5 14 11 9.333"/></g></g></g></g></g></g></svg>
